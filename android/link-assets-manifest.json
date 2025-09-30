@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Befonts-License.txt",
+      "sha1": "a4a367bec04d66976f1a78e38fefcbc556069c81"
+    },
+    {
+      "path": "assets/fonts/Inter_28pt-Regular.ttf",
+      "sha1": "6177ac91c6fb7df9b09beda7802ea15699a88703"
+    },
+    {
+      "path": "assets/fonts/PSFournierTry-Book-BF6746845a21e88.otf",
+      "sha1": "afd6fa69828196e1a0ab00cfe3a02eaaa8a025e7"
+    },
+    {
+      "path": "assets/fonts/PSFournierTry-LightItalic-BF67468459dbc65.otf",
+      "sha1": "1cba4207994ced343b08cfd429d19092672283ca"
+    },
+    {
+      "path": "node_modules/@react-native-vector-icons/lucide/Fonts/Lucide.ttf",
+      "sha1": "9ef7eb093b32a60087b8c5328f8011cfea2b5121"
+    }
+  ]
+}
